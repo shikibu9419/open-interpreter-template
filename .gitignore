@@ -1,0 +1,13 @@
+/data/*
+!/data/raw/.gitkeep
+!/data/preprocessed/.gitkeep
+!/data/processed/.gitkeep
+
+/logs/*
+!/logs/.gitkeep
+
+/notebooks/*
+!/notebooks/.gitkeep
+
+/plots/*
+!/plots/.gitkeep
